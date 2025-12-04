@@ -18,6 +18,7 @@ This project is a solution for the AI Agent Development internship assignment. I
 ### 2. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone <your-repo-url>
-cd <your-folder-name>
+git clone https://github.com/AlphaG24/ai-document-structurer
+cd ai-document-structurer
+
 pip install -r requirements.txt
