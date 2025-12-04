@@ -20,6 +20,7 @@ This project is a solution for the AI Agent Development internship assignment. I
 Clone the repository and install dependencies:
 
 ```bash
-git clone [https://github.com/AlphaG24/ai-document-structurer.git](https://github.com/AlphaG24/ai-document-structurer.git)
+git clone https://github.com/AlphaG24/ai-document-structurer.git
 cd ai-document-structurer
 pip install -r requirements.txt
+
